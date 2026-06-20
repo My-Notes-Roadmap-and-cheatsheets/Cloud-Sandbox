@@ -5,7 +5,9 @@
 This project provides a containerized, 3-tier sandbox environment designed to simulate production-grade cloud service orchestration. The architecture emphasizes **service decoupling**, **network isolation**, and **resiliency**.
 
 ## Architecture Diagram
-
+<div align="center">
+    <img src="./assets/Architecture_Diagram.png" width="700" alt="Cloud-Native Sandbox Architecture Diagram"/>
+</div>
 
 ## Design Decisions
 
